@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @supha
+- 👋 Hi, I’m @suphachok
 - 👀 I’m interested in computer program
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
